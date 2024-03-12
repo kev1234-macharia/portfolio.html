@@ -1,0 +1,28 @@
+p{
+    color:red;
+    font-size: 50px;
+}
+#green_paragraph{
+    color: green;
+    font-size: 20px;
+}
+.red_paragraph{
+    color: red;
+    font-size: 50px;
+}
+.container{
+    width: 800px;
+    height: 500px;
+    border:1px solid aquamarine;
+    padding: 50px;
+    margin: 30px;
+    border: 1px solid black;
+    display: flex;
+}
+.container img{
+width: 800px;
+height: 500px;
+}
+body{
+    background-color: aquamarine;
+}
